@@ -1,2 +1,5 @@
 # hello-world18th
-Trying one more time to find branches
+
+
+Hello,
+Finally got this to work by closing and restarting Github. Not sure why it's working but now.
