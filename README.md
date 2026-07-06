@@ -1,5 +1,4 @@
-# hello-world18th
+# Parker Hill's GitHub
 
 
-Hello,
-Finally got this to work by closing and restarting Github. Not sure why it's working but now.
+Hello!
